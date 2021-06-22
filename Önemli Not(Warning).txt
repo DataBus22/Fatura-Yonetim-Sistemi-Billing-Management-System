@@ -1,0 +1,2 @@
+Java SWING Fatura Yonetim Sistemi, çalıştırmak için lütfen proje klasöründeki KControls.jar kütüphanesini import ediniz. 
+(Please import the KControls.jar library in the project folder to run it.)
